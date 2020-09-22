@@ -1,6 +1,6 @@
-### python study
+## python study
 
-#### 数据类型
+### 数据类型
    * Number
      * int、float、bool、complex（复数）
    * String
